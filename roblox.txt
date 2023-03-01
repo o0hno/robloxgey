@@ -1,0 +1,1 @@
+{"avatarThumbnailCustomizations":[{"thumbnailType":2,"emoteAssetId":0,"camera":{"fieldOfViewDeg":30.0,"yRotDeg":0.0,"distanceScale":2.0}},{"thumbnailType":1,"emoteAssetId":0,"camera":{"fieldOfViewDeg":30.0,"yRotDeg":0.0,"distanceScale":1.0}}]}
